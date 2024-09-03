@@ -14,5 +14,14 @@
     "com.vrchat.worlds": ">=3.1.8",
     "net.narazaka.unity.tiled-number-shader": ">=3.0.1 <4"
   },
+  "legacyFiles": {
+    "Assets\\SimpleUserCount\\LICENSE.txt": "80af6c4041376fb46985683af83b8b62",
+    "Assets\\SimpleUserCount\\SimpleUserCount.asset": "8fbc53d7f7460a74195bc769d4c2fcf7",
+    "Assets\\SimpleUserCount\\SimpleUserCount.mat": "b76c5fcfe6acc974d8e7f4158b8d80d3",
+    "Assets\\SimpleUserCount\\SimpleUserCount.png": "840c901bae06ee947bbedaff851362c5",
+    "Assets\\SimpleUserCount\\SimpleUserCount.prefab": "e841068f46edd5948949e5ee371bda84",
+    "Assets\\SimpleUserCount\\SimpleUserCountShader.shader": "ea69c2cca88b5a34397834fa3059777b",
+    "Assets\\SimpleUserCount\\version.txt": "3baa23c535fa7ef49a738beaa8da8389"
+  },
   "unity": "2019.4"
 }
